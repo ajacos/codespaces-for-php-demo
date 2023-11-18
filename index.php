@@ -17,4 +17,6 @@ foreach ($stmt as $row) {
   $email = $row["email"];
   $age = $row["age"];
 }
+
+
 ?>
