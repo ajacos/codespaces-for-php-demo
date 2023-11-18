@@ -18,5 +18,5 @@ foreach ($stmt as $row) {
   $age = $row["age"];
 }
 
-
+echo $id."<br>".$name."<br>".$email."<br>".$age."<br>";
 ?>
